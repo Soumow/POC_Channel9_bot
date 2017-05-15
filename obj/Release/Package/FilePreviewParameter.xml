@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="POCc9bot" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\soumowa\\documents\\visual\ studio\ 2015\\Projects\\POC_Channel9_bot\\POC_Channel9_bot\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\soumowa\\documents\\visual\ studio\ 2015\\Projects\\POC_Channel9_bot\\POC_Channel9_bot\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
